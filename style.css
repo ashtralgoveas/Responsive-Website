@@ -112,7 +112,7 @@ nav {
 	animation: drop 1.5s ease;
 }
 
-.laptop-select {
+.mobile {
 	width: 15%;
 	display: flex;
 	justify-content: space-around;
@@ -148,7 +148,7 @@ nav {
 	.cta {
 		padding: 10px 0px 0px 0px;
     }
-	.laptop-select {
+	.mobile {
 		bottom: 5%;
 		right: 50%;
 		width: 50%;
