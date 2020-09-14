@@ -1,3 +1,2 @@
-#Responsive Website Layout
-
-Created using HTML and CSS.
+# Responsive Website Layout
+  Created using HTML and CSS.
